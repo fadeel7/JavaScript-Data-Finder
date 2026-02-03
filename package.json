@@ -1,0 +1,27 @@
+{
+  "name": "javascript-data-finder",
+  "version": "1.0.0",
+  "description": "A JavaScript implementation demonstrating closures to search for values within specified ranges of an array",
+  "main": "dataFinder.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node dataFinder.js"
+  },
+  "keywords": [
+    "javascript",
+    "closures",
+    "array",
+    "search",
+    "algorithm",
+    "coding-challenge"
+  ],
+  "author": "Fadeel",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fadeel7/JavaScript-data-finder.git"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
